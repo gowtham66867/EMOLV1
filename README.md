@@ -38,8 +38,6 @@ The loss function used here was Crossentropy loss.
 * Total number of non-trainable model parameters = 0
 * Model Size = 2.94MB
 
-## Authors
 
-- [@mrinalmouza](https://github.com/mrinalmouza)
 
 
